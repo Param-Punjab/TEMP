@@ -1,7 +1,3 @@
----
-geometry: margin=1in
----
-
 # Why we should prefer Linux over Microsoft Windows ?
 
 There are several reasons why many users prefer Linux over Microsoft Windows:
