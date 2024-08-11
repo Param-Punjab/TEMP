@@ -5,7 +5,9 @@ First, ensure your system is up to date by running:
 ```bash
 sudo apt-get update
 ```
+
 **Output:**
+
 ```
 [sudo] password for param: 
 Ign:1 https://apt.packages.shiftkey.dev/ubuntu any InRelease                                                                                                         
@@ -27,6 +29,8 @@ You can install Jupyter by executing the following command:
 ```bash
 sudo apt-get -y install jupyter
 ```
+
+**Output:**
 
 ```
 Reading package lists... Done
