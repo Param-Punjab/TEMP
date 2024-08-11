@@ -1,4 +1,4 @@
-# Installation of JupyterLab and Jupyter Notebook in just 2 steps
+# Installation of JupyterLab and Jupyter Notebook in just 2 steps:
 
 To install JupyterLab and Jupyter Notebook on Kali Linux using the command line, follow these steps:
 
