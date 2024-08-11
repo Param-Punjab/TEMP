@@ -429,4 +429,4 @@ Both commands will open the corresponding interface in your web browser.
 ### Troubleshooting
 If you encounter any issues during installation, you might want to try alternative package managers like `apt` or `aptitude`. For more detailed guidance, refer to the official [Jupyter documentation](https://jupyter.org/install).
 
-This method provides a straightforward way to install Jupyter on Kali Linux using the command line【7†source】【8†source】.
+This method provides a straightforward way to install Jupyter on Kali Linux using the command line interface.
