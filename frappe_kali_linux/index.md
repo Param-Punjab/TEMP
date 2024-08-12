@@ -1,5 +1,3 @@
----
-
 **Command:** `export PATH=$PATH:/home/param/.local/bin`
 
 **Output:** No output (this command sets the `PATH` environment variable for the current session).
