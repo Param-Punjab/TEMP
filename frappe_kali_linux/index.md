@@ -1,16 +1,14 @@
 # Frappe Installation on Kali Linux: A Step-by-Step Guide
 
-**Command:** `export PATH=$PATH:/home/param/.local/bin`
-
-**Output:** No output (this command sets the `PATH` environment variable for the current session).
-
 ---
 
 **Command:** `vim ~/.zshrc`
 
 **Output:** No output (this command opens the `.zshrc` file in the Vim editor for editing).
 
----
+`export PATH=$PATH:/home/param/.local/bin`
+
+Copy this in the last of the file (this command sets the `PATH` environment variable for the current session).
 
 **Command:** `source ~/.zshrc`
 
