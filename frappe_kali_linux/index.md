@@ -116,9 +116,7 @@ Processing triggers for kali-menu (2023.4.7) ...
 
 ---
 
-**Command:** `sudo curl -fsSL https://download.docker.com/linux/debian/gpg -o /etc/apt/keyrings
-
-/docker.asc`
+**Command:** `sudo curl -fsSL https://download.docker.com/linux/debian/gpg -o /etc/apt/keyrings/docker.asc`
 
 **Output:** No output (this command downloads the Docker GPG key and saves it to `/etc/apt/keyrings/docker.asc`).
 
