@@ -161,7 +161,7 @@ Docker version 20.10.25+dfsg1, build b82b9f3
 
 ---
 
-**Command:** `docker run hello-world`
+**Command:** `sudo docker run hello-world`
 
 **Output:**
 ```
