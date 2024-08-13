@@ -125,6 +125,9 @@ Processing triggers for kali-menu (2023.4.7) ...
 **Command:** `sudo chmod a+r /etc/apt/keyrings/docker.asc`
 
 **Output:** No output (this command sets read permissions for all users on the Docker GPG key file).
+
+---
+
 **Command**`sudo apt-get install docker.io`
 **Output:**
 ```
