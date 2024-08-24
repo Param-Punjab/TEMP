@@ -22,7 +22,7 @@ Start by downloading the Debian 12 ISO image:
 
 Prepare a bootable USB drive using the Debian ISO:
 
-1. **Download Rufus:** Obtain Rufus from [Rufus Official Site](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe).
+1. **Download Rufus:** Obtain Rufus from [Rufus](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe).
 
 2. **Run Rufus:**
    - Launch Rufus and insert your USB drive.
