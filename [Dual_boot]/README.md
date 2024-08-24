@@ -16,9 +16,7 @@ Ensure your system meets the following minimum requirements for Debian 12:
 
 Start by downloading the Debian 12 ISO image:
 
-1. **Visit the Download Page:** Access the Debian 12 ISO at [Debian CD Image](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.6.0-amd64-netinst.iso).
-
-2. **Verify the ISO:** Optionally, check the SHA256 hash against Debian's provided values to ensure the ISO's integrity.
+1. **Click here to Download Debian 12:** Access the Debian 12 ISO at [Debian CD Image](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.6.0-amd64-netinst.iso).
 
 ### **2. Create a Bootable USB Drive**
 
