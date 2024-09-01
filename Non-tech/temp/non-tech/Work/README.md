@@ -47,10 +47,10 @@
 ## 📊 **September 2024 Summary**
 
 ### 📚 **Total Pages**
-- **Total Pages Processed:** **XX**
+- **Total Pages Processed:** **152**
 
 ### 💵 **Earned Money**
-- **Total Earned Money:** **₹XXXX**
+- **Total Earned Money:** **₹1,216**
 
 ---
 
