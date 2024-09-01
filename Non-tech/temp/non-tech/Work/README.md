@@ -12,7 +12,7 @@
 |         |                   | **[2024]_1_S.C.R._1062-1082**             | [Link](Files/[2024]_1_S.C.R._1062-1082.docx) | [Link](Files/[2024]_1_S.C.R._1062-1082.pdf) | **21**       | **168**             |
 |         |                   | **[2024]_1_S.C.R._1083-1089**             | [Link](Files/[2024]_1_S.C.R._1083-1089.docx) | [Link](Files/[2024]_1_S.C.R._1083-1089.pdf) | **07**       | **56**              |
 |         |                   | **[2024]_1_S.C.R._1090-1099**             | [Link](Files/[2024]_1_S.C.R._1090-1099.docx) | [Link](Files/[2024]_1_S.C.R._1090-1099.pdf) | **10**       | **80**              |
-| 2       | Sat, 31 Aug       | **[2024]_1_S.C.R._623-641**               | [Link](Files/[2024]_1_S.C.R._623-641.docx)   | **NA**                                      | **10**       | **50**              |
+| 2       | Sat, 31 Aug       | **[2024]_1_S.C.R._623-641**               | [Link](Files/[2024]_1_S.C.R._623-641.docx)   | **NA**                                      | **10**       | **80**              |
 |         |                   | **[2024]_1_S.C.R._973-1044**              | [Link](Files/[2024]_1_S.C.R._973-1044.docx)  | [Link](Files/[2024]_1_S.C.R._973-1044.pdf)  | **72**       | **576**             |
 
 ---
@@ -20,10 +20,10 @@
 ## 📊 **August 2024 Summary**
 
 ### 📚 **Total Pages**
-- **Total Pages Processed:** **XXXX**
+- **Total Pages Processed:** **137**
 
 ### 💵 **Earned Money**
-- **Total Earned Money:** **$XXXX**
+- **Total Earned Money:** **₹1,096**
 
 ---
 
@@ -43,14 +43,10 @@
 ## 📊 **September 2024 Summary**
 
 ### 📚 **Total Pages**
-- **Total Pages Processed:** **XXXX**
+- **Total Pages Processed:** **73**
 
 ### 💵 **Earned Money**
-- **Total Earned Money:** **$XXXX**
-
-### 💡 **Observations & Goals**
-- **🔍 General Observations:** _Notable trends, challenges, or achievements._
-- **🎯 Goals for Next Month:** _Focus areas or improvements for the next month._
+- **Total Earned Money:** **₹584**
 
 ---
 
