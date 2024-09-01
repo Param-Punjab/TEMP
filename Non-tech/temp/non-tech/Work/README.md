@@ -12,7 +12,7 @@
 |         |                   | **[2024]_1_S.C.R._1062-1082**             | [Link](Files/[2024]_1_S.C.R._1062-1082.docx) | [Link](Files/[2024]_1_S.C.R._1062-1082.pdf) |              |                    |
 |         |                   | **[2024]_1_S.C.R._1083-1089**             | [Link](Files/[2024]_1_S.C.R._1083-1089.docx) | [Link](Files/[2024]_1_S.C.R._1083-1089.pdf) |              |                    |
 |         |                   | **[2024]_1_S.C.R._1090-1099**             | [Link](Files/[2024]_1_S.C.R._1090-1099.docx) | [Link](Files/[2024]_1_S.C.R._1090-1099.pdf) |              |                    |
-| 2       | Sat, 31 Aug       | **[2024]_1_S.C.R._623-641**               | [Link](Files/[2024]_1_S.C.R._623-641.docx) | [Link](Files/[2024]_1_S.C.R._623-641.pdf)   | **XX**       | _Brief description_ |
+| 2       | Sat, 31 Aug       | **[2024]_1_S.C.R._623-641**               | [Link](Files/[2024]_1_S.C.R._623-641.docx) | **NA**                                        | **XX**       | _Brief description_ |
 |         |                   | **[2024]_1_S.C.R._973-1044**              | [Link](Files/[2024]_1_S.C.R._973-1044.docx) | [Link](Files/[2024]_1_S.C.R._973-1044.pdf)  |              |                    |
 
 ---
